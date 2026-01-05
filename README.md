@@ -506,7 +506,7 @@ Shared [Google Drive](https://drive.google.com/drive/folders/10D5AaYYRAzjXzH1jX-
   [`set-theory/Winskel_2010_Set Theory for Computer Science.pdf`](set-theory/Winskel_2010_Set%20Theory%20for%20Computer%20Science.pdf)
 
 
-## 📈 Spatiotempral Statistics
+## 📈 Spatiotemporal Statistics
 
 - A Practical Guide to Geostatistical Mapping, 2nd Edition — Tomislav Hengl, 2010  
   [`spatiotempral-statistics/A Practical Guide to Geostatistical Mapping_Hengl_2009.pdf`](spatiotempral-statistics/A%20Practical%20Guide%20to%20Geostatistical%20Mapping_Hengl_2009.pdf)
